@@ -1,6 +1,6 @@
 # About Me:
 Hi There!
-I’m Fahim, a Passionate Software Engineer.
+I’m Fahim, a Passionate Full-Stack Developer.
 
 
 ## 🌐 Socials:
