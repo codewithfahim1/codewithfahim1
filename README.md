@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on a flutter project<br>& learning about Cybersecurity <br>Fun Fact: i'm a night owl loves to code
+Hi There!
+I’m Fahim, a Passionate Software Engineer.
 
 
 ## 🌐 Socials:
