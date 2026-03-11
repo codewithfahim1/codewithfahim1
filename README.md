@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a flutter project<br>& currently learning about Cybersecurity <br>Fun Fact: i'm a night owl loves to code
+I'm currently working on a flutter project<br>& learning about Cybersecurity <br>Fun Fact: i'm a night owl loves to code
 
 
 ## 🌐 Socials:
