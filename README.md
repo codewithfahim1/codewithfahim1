@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi There!
 I’m Fahim, a Passionate Software Engineer.
 
